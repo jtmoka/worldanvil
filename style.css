@@ -6,18 +6,40 @@
   border: none;
 }
 
-.ui.borderless.here.menu {
-  background: #3b5998;
-  box-shadow: none;
-  border: none;
+.mid{
+  background-color: #2f4050;
+}
+
+h2 {
+  font-family: open sans;
+  text-align: center;
+  padding-left: width/2;
+  hight: 300px;
 }
 
 .footer {
-
   color: white;
   height: 200px;
   padding-top: 50px;
   padding-bottom: 50px;
+}
+
+.box {
+  border-style: none;
+  border-color: black;
+  text-align: center;
+}
+
+.yellow-box {
+  background-color: white;
+}
+
+.red-box {
+  color: #fff;
+}
+
+.blue-box {
+  color: #fff;
 }
 
 .to {
